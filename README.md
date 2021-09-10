@@ -1,1 +1,2 @@
-# homework03-passwordgenerator
+# Homework 03 Password Generator
+
