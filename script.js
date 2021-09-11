@@ -25,8 +25,8 @@ function questions() {
       askUpperCase: askUpperCase,
       askSpecial: askSpecial
     } 
-    if((length < 4)||(length > 150))
-    alert("Pick a number between 4 and 150");
+    if((length < 8)||(length > 128))
+    alert("Pick a number between 8 and 128");
     else if((!askNumbers)&&(!askLowerCase)&&(!askUpperCase)&&(!askSpecial))
     alert("You must pick at least one type.");
     else
