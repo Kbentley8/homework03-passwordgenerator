@@ -13,7 +13,7 @@ var special = ['@', '%', '+', '/', "'", '!', '#', '$', '^', '?', ':', ',', ')', 
 function questions() {
   var isValid = false;
   do {
-    var length = prompt("Pick a password length between 4 and 150 characters");
+    var length = prompt("Pick a password length between 8 and 128 characters");
     var askNumbers = confirm("Would you like your password to include numbers?");
     var askLowerCase = confirm("Would you like your password to include lower case letters?");
     var askUpperCase = confirm("Would you like your password to include upper case letters?");
