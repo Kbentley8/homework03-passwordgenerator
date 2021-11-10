@@ -1,4 +1,4 @@
-# Homework 03 Password Generator
+# Password Generator
 
 # Description
 In this assignment, I was tasked with utilizing javascript, html, and css to generate a safe and secure password for the user. The password criteria are as followed: it must be between the length of 8-128 characters, and may or may not include lowercase, uppercase, numeric, and/or special characters.
